@@ -1,2 +1,2 @@
-# HGCNDDI
-Accurately Predicting Risk Levels of Drug Interaction Events Based on Heterogeneous Attribute Graph Learning and Multi-head Attention
+# MathEagle
+Predicting Accurate Drug Combination Risk Levels Based on Multi-head Attention with Heterogeneous Attribute Graph Learning
